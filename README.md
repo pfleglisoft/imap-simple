@@ -13,9 +13,6 @@ Added following methods:
 + removeDeleted
 
 
-**Warning**: This library is missing a great deal of functionality from node-imap. If you have functionality you would
-like to see, we're accepting pull requests!
-
 ### Examples
 
 #### Retrieve the subject lines of all unread email
