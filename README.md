@@ -2,8 +2,16 @@
 
 A library providing a simpler interface for common use cases of [node-imap][], a robust imap client for node.js.
 
-**Warning**: This library is missing a great deal of functionality from node-imap. If you have functionality you would
-like to see, we're accepting pull requests!
+
+## Changes
+Added following methods:
+
++ copyMessage
++ destroy
++ expunge
++ closebox
++ removeDeleted
+
 
 ### Examples
 
